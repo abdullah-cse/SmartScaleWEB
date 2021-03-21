@@ -24,7 +24,7 @@ sections:
         image_alt: App preview on a phone and tablet
         content: >
           **SmartScale** suggest intelligently while you typing. The more you
-          use** SmartScale**, the more it becomes smarter.
+          use **SmartScale** , the more it becomes smarter.
         actions:
           - label: Learn More
             url: /features
