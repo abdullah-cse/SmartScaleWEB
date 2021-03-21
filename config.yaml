@@ -58,7 +58,7 @@ params:
             new_window: false
             no_follow: false
             type: action
-            url: www.facebook.com
+            url: 'https://www.facebook.com/'
           - label: Twitter
             url: www.twitter.com
             style: link
