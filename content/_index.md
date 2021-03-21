@@ -104,17 +104,7 @@ sections:
     background: gray
     faq_items:
       - question: SmartScale is newly launched. Can we Trust?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: "Yes! SmartScale comes to Win! It will replace all outdated Industrial Scale Software near future by it’s Quality & Service.\r\nYour Support energies us!!\n"
         type: faq_item
     type: section_faq
     section_id: FAQ-Hero
