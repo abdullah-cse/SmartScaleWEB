@@ -99,8 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: Hero
-    title: FAQ
+  - title: FAQ
     subtitle: lorem-ipsum
     background: gray
     faq_items: []
