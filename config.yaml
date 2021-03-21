@@ -60,7 +60,7 @@ params:
             type: action
             url: www.facebook.com
           - label: Twitter
-            url: '#'
+            url: www.twitter.com
             style: link
             has_icon: false
             icon: arrow-left
