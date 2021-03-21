@@ -50,7 +50,7 @@ params:
       - type: footer_nav
         title: We are social!
         nav_links:
-          - label: Facebook
+          - label: lorem-ipsum
             url: '#'
             style: link
             has_icon: false
@@ -59,7 +59,7 @@ params:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: Facebook
             url: '#'
             style: link
             has_icon: false
