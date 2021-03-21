@@ -35,10 +35,10 @@ sections:
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          SmartScale basically developed targeting novice user, but it has lot
+          of Shortcut Key combination for Pro user. So far, a novice or Pro user
+          feel home at here. That’s why it’s SmartScale
         actions:
           - label: Learn More
             url: /features
