@@ -6,9 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: SmartScale
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: "**SmartScale** is a modern, easy-to-use\r industrial weighing scale software for\r Weighing, Report Generation, track\r sales and more...\n"
     actions:
       - label: Learn More
         url: /features
