@@ -104,6 +104,7 @@ sections:
     background: gray
     faq_items: []
     type: section_faq
+    section_id: F
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
