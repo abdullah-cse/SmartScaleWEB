@@ -100,7 +100,7 @@ sections:
     background: gray
     title: Latest Posts
   - title: FAQ
-    subtitle: lorem-ipsum
+    subtitle: Those answer you need to know.
     background: gray
     faq_items: []
     type: section_faq
