@@ -50,12 +50,6 @@ params:
       - type: footer_nav
         title: We are social!
         nav_links:
-          - label: GitHub
-            url: 'https://github.com/'
-            style: link
-            has_icon: true
-            icon: github
-            icon_position: left
           - label: lorem-ipsum
             url: '#'
             style: link
