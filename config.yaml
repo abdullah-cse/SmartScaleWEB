@@ -55,7 +55,7 @@ params:
             has_icon: true
             icon: facebook
             icon_position: left
-            new_window: true
+            new_window: false
             no_follow: false
             type: action
             url: www.facebook.com
