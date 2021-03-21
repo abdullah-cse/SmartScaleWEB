@@ -48,7 +48,7 @@ params:
             url: /contact
             style: link
       - type: footer_nav
-        title: Community
+        title: We are social!
         nav_links:
           - label: Twitter
             url: 'https://twitter.com/'
