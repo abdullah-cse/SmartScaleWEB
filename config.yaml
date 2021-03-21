@@ -51,7 +51,6 @@ params:
         title: We are social!
         nav_links:
           - label: Facebook
-            url: '#'
             style: link
             has_icon: false
             icon: arrow-left
