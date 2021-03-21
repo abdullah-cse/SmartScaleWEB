@@ -20,7 +20,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Intelli-Suggest
-        image: images/feature1.png
+        image: images/6.jpg
         image_alt: App preview on a phone and tablet
         content: >
           **SmartScale** suggest intelligently while you typing. The more you
