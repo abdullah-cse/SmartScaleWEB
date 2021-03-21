@@ -50,12 +50,6 @@ params:
       - type: footer_nav
         title: We are social!
         nav_links:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: link
-            has_icon: true
-            icon: twitter
-            icon_position: left
           - label: LinkedIn
             url: 'https://www.linkedin.com/'
             style: link
