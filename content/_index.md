@@ -103,7 +103,7 @@ sections:
     subtitle: Those answer you need to know.
     background: gray
     faq_items:
-      - question: SmartScale is newly launch. Can we Trust?
+      - question: SmartScale is newly launched. Can we Trust?
         answer: >-
           ## Lorem ipsum
 
