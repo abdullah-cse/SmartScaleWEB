@@ -22,10 +22,9 @@ sections:
       - title: Intelli-Suggest
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          **SmartScale** suggest intelligently while you typing. The more you
+          use** SmartScale**, the more it becomes smarter.
         actions:
           - label: Learn More
             url: /features
