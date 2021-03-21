@@ -50,12 +50,6 @@ params:
       - type: footer_nav
         title: We are social!
         nav_links:
-          - label: LinkedIn
-            url: 'https://www.linkedin.com/'
-            style: link
-            has_icon: true
-            icon: linkedin
-            icon_position: left
           - label: GitHub
             url: 'https://github.com/'
             style: link
