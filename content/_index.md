@@ -103,9 +103,7 @@ sections:
     subtitle: Those answer you need to know.
     background: gray
     faq_items:
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: SmartScale is newly launch. Can we Trust?
         answer: >-
           ## Lorem ipsum
 
