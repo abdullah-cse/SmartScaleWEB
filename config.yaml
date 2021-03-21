@@ -59,7 +59,7 @@ params:
             no_follow: false
             type: action
             url: www.facebook.com
-          - label: lorem-ipsum
+          - label: Twitter
             url: '#'
             style: link
             has_icon: false
