@@ -63,7 +63,7 @@ params:
             url: www.twitter.com
             style: link
             has_icon: true
-            icon: arrow-left
+            icon: twitter
             icon_position: left
             new_window: false
             no_follow: false
