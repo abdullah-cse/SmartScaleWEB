@@ -58,6 +58,7 @@ params:
             new_window: false
             no_follow: false
             type: action
+            url: www.
       - type: footer_form
         title: Subscribe
         content: Stay up to date with our latest developments.
