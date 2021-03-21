@@ -69,7 +69,7 @@ params:
             no_follow: false
             type: action
           - label: Youtube
-            url: '#'
+            url: www.youtube.com
             style: link
             has_icon: false
             icon: arrow-left
