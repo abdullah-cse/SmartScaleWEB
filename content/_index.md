@@ -32,7 +32,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: lorem-ipsum
+          - label: See it in Action
             url: '#'
             style: link
             has_icon: false
