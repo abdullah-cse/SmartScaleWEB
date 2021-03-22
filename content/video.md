@@ -16,4 +16,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 
 Here is a video
 
-{{< youtube id**=**"w7Ft2ymGmfc" autoplay**=**"true" >}}
+youtube id\*\*=**"w7Ft2ymGmfc" autoplay**=\*\*"true" 
