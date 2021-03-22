@@ -52,12 +52,10 @@ sections:
     subtitle: Answers to common questions about SmartScale
     faq_items:
       - question: I need something unique. Can you make it?
-        answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+        answer: >
+          Yes, if you’re looking for a custom solution, our team of experts will
+          build a solution, you will love. for more please contact
+          **sales\[at]smartscale.com.bd**
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
