@@ -51,7 +51,7 @@ sections:
     title: 'You asked, we answered!'
     subtitle: Answers to common questions about SmartScale
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: I need something unique. Can you make it?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
