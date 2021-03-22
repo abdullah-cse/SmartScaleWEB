@@ -32,6 +32,15 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+          - label: See it in Action
+            url: 'https://www.youtube.com/watch?v=poEK6TxfJJA'
+            style: primary
+            has_icon: true
+            icon: youtube
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
