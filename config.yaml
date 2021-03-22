@@ -2,7 +2,7 @@ title: SmartScale
 baseURL: /
 params:
   base_font: nunito-sans
-  palette: blue
+  palette: green
   header:
     logo_img: images/logo.svg
     logo_img_alt: Logo_SmartScale
