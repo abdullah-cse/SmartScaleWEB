@@ -14,6 +14,4 @@ layout: page
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-Here is a video
-
-youtube id\*\*=**"w7Ft2ymGmfc" autoplay**=\*\*"true" 
+Here is a video https://www.youtube.com/watch?v=\_eilnImumtM
