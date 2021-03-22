@@ -33,7 +33,7 @@ sections:
             icon: arrow-right
             icon_position: right
           - label: See it in Action
-            url: '#'
+            url: 'https://www.youtube.com/watch?v=poEK6TxfJJA'
             style: primary
             has_icon: true
             icon: youtube
