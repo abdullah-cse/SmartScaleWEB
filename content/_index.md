@@ -95,15 +95,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - title: FAQ
-    subtitle: Those answer you need to know.
-    background: gray
-    faq_items:
-      - question: SmartScale is newly launched. Can we Trust?
-        answer: "Yes! SmartScale comes to Win! It will replace all outdated Industrial Scale Software near future by it’s Quality & Service.\r\nYour Support energies us!!\n"
-        type: faq_item
-    type: section_faq
-    section_id: FAQ-Hero
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
