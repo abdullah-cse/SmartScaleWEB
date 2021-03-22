@@ -49,7 +49,7 @@ sections:
     type: section_faq
     background: gray
     title: 'You asked, we answered!'
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: Answers to common questions about SmartScale
     faq_items:
       - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
         answer: >-
