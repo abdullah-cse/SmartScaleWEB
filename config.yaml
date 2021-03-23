@@ -104,7 +104,7 @@ params:
             no_follow: true
             type: action
         type: footer_nav
-      - image_alt: lorem-ipsum
+      - image_alt: noC
         image_url: lorem-ipsum
         title: Contact Info
         content: >-
