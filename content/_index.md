@@ -130,7 +130,9 @@ seo:
     - name: 'twitter:title'
       value: SmartScale | Smarter way to scale
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        SmartScale is a modern, easy to use industrial Weighing Scale Software
+        for Weighing, Report Generation, Track Sales and more…
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
