@@ -8,7 +8,7 @@ sections:
     title: SmartScale
     content: "**SmartScale** is a modern, easy-to-use\r industrial weighing scale software for\r Weighing, Report Generation, track\r sales and more...\n"
     actions:
-      - label: Learn More
+      - label: Get started
         url: /features
         style: primary
   - section_id: features
@@ -105,8 +105,10 @@ sections:
         url: /signup
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: SmartScale | Smarter way to Scale
+  description: >-
+    SmartScale is a modern, easy to use industrial Weighing Scale Software for
+    Weighing, Report Generation, Track Sales and more…
   extra:
     - name: 'og:type'
       value: website

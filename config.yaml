@@ -41,24 +41,21 @@ params:
           - label: Blog
             url: /blog
             style: link
-          - label: Sign Up
-            url: /signup
-            style: link
           - label: Contact
             url: /contact
             style: link
       - type: footer_nav
         title: We are social!
         nav_links:
-          - label: Facebook
+          - label: youtube
             style: link
             has_icon: true
-            icon: facebook
+            icon: youtube
             icon_position: left
             new_window: false
             no_follow: false
             type: action
-            url: 'https://www.facebook.com/'
+            url: 'https://www.youtube.com'
           - label: Twitter
             url: www.twitter.com
             style: link
@@ -68,36 +65,45 @@ params:
             new_window: false
             no_follow: false
             type: action
-          - label: Youtube
-            url: www.youtube.com
+          - label: Facebook
+            url: 'https://facebook.com'
             style: link
             has_icon: true
-            icon: youtube
+            icon: facebook
             icon_position: left
             new_window: false
             no_follow: false
             type: action
-          - label: Email
+      - title: Contact Info
+        nav_links:
+          - label: 'Dhaka, Bangladesh'
             url: '#'
             style: link
-            has_icon: true
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+          - label: +8801571-386-167
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+          - label: sales@SmartScale.com.bd
+            url: 'mailto:smartscale.com.bd'
+            style: link
+            has_icon: false
             icon: envelope
             icon_position: left
             new_window: false
-            no_follow: false
+            no_follow: true
             type: action
-      - type: footer_form
-        title: Subscribe
-        content: Stay up to date with our latest developments.
-        form_id: contactForm
-        hide_labels: true
-        form_fields:
-          - input_type: email
-            name: email
-            label: Email
-            default_value: Enter email address
-            is_required: true
-        submit_label: Subscribe
+        type: footer_nav
     has_nav: true
     nav_links:
       - label: Terms of Service
@@ -106,10 +112,8 @@ params:
       - label: Privacy Policy
         url: /privacy-policy
         style: link
-    content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with
-      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>
+    content: '&copy; SmartScale 2021. All rights reserved.'
+    links: []
   domain: 'https://smartscalewithstackbit-78888.netlify.app'
 taxonomies:
   stub: stub
