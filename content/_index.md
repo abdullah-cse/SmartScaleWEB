@@ -99,7 +99,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Get Quote
-    subtitle: This is an optional description for the call to action block.
+    subtitle: To know more about SmartScale or if you think to buy or anything related.
     actions:
       - label: Get Started
         url: /signup
