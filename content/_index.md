@@ -8,7 +8,7 @@ sections:
     title: SmartScale
     content: "**SmartScale** is a modern, easy-to-use\r industrial weighing scale software for\r Weighing, Report Generation, track\r sales and more...\n"
     actions:
-      - label: 
+      - label: Get started
         url: /features
         style: primary
   - section_id: features
