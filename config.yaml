@@ -47,7 +47,7 @@ params:
       - type: footer_nav
         title: We are social!
         nav_links:
-          - label: Facebook
+          - label: uoY
             style: link
             has_icon: true
             icon: facebook
