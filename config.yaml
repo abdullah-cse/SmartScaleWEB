@@ -13,7 +13,7 @@ params:
         style: primary
       - label: Features
         url: /features
-        style: link
+        style: secondary
       - label: Pricing
         url: /pricing
         style: link
