@@ -113,7 +113,7 @@ params:
             icon: envelope
             icon_position: left
             new_window: false
-            no_follow: false
+            no_follow: true
             type: action
         type: footer_nav
     has_nav: true
