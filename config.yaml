@@ -110,7 +110,7 @@ params:
             url: 'mailto:smartscale.com.bd'
             style: link
             has_icon: true
-            icon: fa-mobile
+            icon: envelope
             icon_position: left
             new_window: false
             no_follow: true
