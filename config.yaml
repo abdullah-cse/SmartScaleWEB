@@ -104,6 +104,21 @@ params:
             no_follow: true
             type: action
         type: footer_nav
+      - image_alt: lorem-ipsum
+        image_url: lorem-ipsum
+        title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: footer_text
     has_nav: true
     nav_links:
       - label: Terms of Service
