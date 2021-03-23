@@ -112,7 +112,7 @@ params:
       - label: Privacy Policy
         url: /privacy-policy
         style: link
-    content: '&copy; SmartScale. All rights reserved.'
+    content: '&copy; SmartScale 2021. All rights reserved.'
     links: []
   domain: 'https://smartscalewithstackbit-78888.netlify.app'
 taxonomies:
