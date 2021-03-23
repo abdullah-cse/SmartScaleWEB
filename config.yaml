@@ -85,7 +85,7 @@ params:
             no_follow: false
             type: action
           - label: +8801571-386-167
-            url: '#'
+            url: 'htttps:'
             style: link
             has_icon: false
             icon: arrow-left
