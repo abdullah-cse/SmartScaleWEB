@@ -88,7 +88,7 @@ params:
             type: action
       - title: Contact Info
         nav_links:
-          - label: lorem-ipsum
+          - label: Dh
             url: '#'
             style: link
             has_icon: false
