@@ -106,7 +106,7 @@ params:
             new_window: false
             no_follow: false
             type: action
-          - label: sales@smartscale.com.bd
+          - label: sales@smartScale.com.bd
             url: '#'
             style: link
             has_icon: false
