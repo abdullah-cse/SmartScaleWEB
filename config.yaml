@@ -97,7 +97,7 @@ params:
             new_window: false
             no_follow: false
             type: action
-          - label: +8801571-386-167
+          - label: <i class="fas fa-phone"></i>+8801571-386-167
             url: '#'
             style: link
             has_icon: false
