@@ -106,7 +106,7 @@ params:
         type: footer_nav
       - image_alt: lorem-ipsum
         image_url: lorem-ipsum
-        title: lorem-ipsum
+        title: Contact Info
         content: >-
           ## Lorem ipsum
 
