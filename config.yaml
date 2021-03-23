@@ -10,7 +10,7 @@ params:
     nav_links:
       - label: Home
         url: /
-        style: link
+        style: primary
       - label: Features
         url: /features
         style: link
