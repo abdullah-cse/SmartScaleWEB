@@ -106,7 +106,9 @@ sections:
         style: primary
 seo:
   title: SmartScale | Smarter way to Scale
-  description: The preview of the Azimuth theme
+  description: >-
+    SmartScale is a modern, easy to use industrial Weighing Scale Software for
+    Weighing, Report Generation, Track Sales and more…
   extra:
     - name: 'og:type'
       value: website
