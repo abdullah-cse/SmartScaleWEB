@@ -77,7 +77,6 @@ params:
       - title: Contact Info
         nav_links:
           - label: 'Dhaka, Bangladesh'
-            url: '#'
             style: link
             has_icon: false
             icon: arrow-left
