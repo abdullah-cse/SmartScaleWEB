@@ -113,7 +113,7 @@ params:
         style: link
     content: '&copy; SmartScale 2021. All rights reserved.'
     links: []
-  domain: 'https://smartscalewithstackbit-78888.netlify.app'
+  domain: 'https://smartscale.com.bd'
 taxonomies:
   stub: stub
 disableKinds:
