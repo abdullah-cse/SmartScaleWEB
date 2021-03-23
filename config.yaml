@@ -69,7 +69,7 @@ params:
             url: 'https://facebook.com'
             style: link
             has_icon: true
-            icon: youtube
+            icon: facebook
             icon_position: left
             new_window: false
             no_follow: false
