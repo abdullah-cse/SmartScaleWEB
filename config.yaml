@@ -86,7 +86,7 @@ params:
             new_window: false
             no_follow: false
             type: action
-      - title: lorem-ipsum
+      - title: Contact Info
         nav_links: []
         type: footer_nav
     has_nav: true
