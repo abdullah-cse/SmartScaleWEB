@@ -128,7 +128,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: SmartScale | Smarter way to scale
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
