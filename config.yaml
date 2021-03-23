@@ -98,6 +98,9 @@ params:
             default_value: Enter email address
             is_required: true
         submit_label: Subscribe
+      - title: lorem-ipsum
+        nav_links: []
+        type: footer_nav
     has_nav: true
     nav_links:
       - label: Terms of Service
