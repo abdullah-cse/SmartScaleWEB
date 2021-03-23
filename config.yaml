@@ -74,15 +74,6 @@ params:
             new_window: false
             no_follow: false
             type: action
-          - label: Email
-            url: '#'
-            style: link
-            has_icon: true
-            icon: envelope
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
       - title: Contact Info
         nav_links:
           - label: 'Dhaka, Bangladesh'
