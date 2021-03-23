@@ -97,7 +97,7 @@ params:
             new_window: false
             no_follow: false
             type: action
-          - label: "\U0001F4DE +8801571-386-167"
+          - label: +8801571-386-167
             url: '#'
             style: link
             has_icon: false
