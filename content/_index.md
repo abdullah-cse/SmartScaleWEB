@@ -14,7 +14,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Exclusive Features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
@@ -41,7 +41,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Awesome Feature of Your Services
+      - title: Easy to Use
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
@@ -53,9 +53,9 @@ sections:
             url: /features
             style: secondary
             has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Your favorite feature
+            icon: arrow-left
+            icon_position: left
+      - title: Smart Report
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
@@ -69,6 +69,23 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      - title: Feature you need
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        image_alt: lorem-ipsum
+        actions:
+          - label: Learn More
+            url: /feature
+            style: primary
+            has_icon: true
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+        type: feature_item
+        image: images/1.jpg
   - section_id: call-to-action
     type: section_cta
     title: Get Quote
