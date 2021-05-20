@@ -44,23 +44,29 @@ sections:
     subtitle: Fill out the form below and we will get in touch within 1 business day.
     hide_labels: false
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contact | SmartScale
+  description: >-
+    Have some question about SmartScale.com.bd? Please fill out the Quick Form
+    and we will be in touch with lightening speed.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact | SmartScale.com.bd
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Have some question about SmartScale.com.bd? Please fill out the Quick
+        Form and we will be in touch with lightening speed.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: Contact | SmartScale.com.bd
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Have some question about SmartScale.com.bd? Please fill out the Quick
+        Form and we will be in touch with lightening speed.
 layout: landing
 ---
