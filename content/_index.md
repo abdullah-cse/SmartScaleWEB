@@ -55,7 +55,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Your favorite feature
+      - title: Smart Report
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
