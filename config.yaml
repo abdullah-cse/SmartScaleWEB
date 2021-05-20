@@ -17,7 +17,7 @@ params:
       - label: Pricing
         url: /pricing
         style: secondary
-      - url: /
+      - url: /contact
         style: link
         has_icon: false
         icon: arrow-left
