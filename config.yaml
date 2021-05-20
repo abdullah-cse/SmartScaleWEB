@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     logo_img: images/SmartScaleHalf.png
-    logo_img_alt: Logo_SmartScale
+    logo_img_alt: alt-SmartScale
     has_nav: true
     nav_links:
       - label: Home
