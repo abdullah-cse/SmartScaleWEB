@@ -23,7 +23,7 @@ sections:
         name: email
         label: Email
         is_required: true
-        default_value: Your email address.
+        default_value: Your email address
       - input_type: select
         name: subject
         label: Subject
