@@ -45,7 +45,7 @@ sections:
       - input_type: tel
         name: mobile
         label: Mobile
-        default_value: lorem-ipsum
+        default_value: Your mobile number
         options: []
         is_required: false
         type: form_field
