@@ -44,7 +44,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Mobile
-        label: lorem-ipsum
+        label: mobile
         default_value: lorem-ipsum
         options: []
         is_required: false
