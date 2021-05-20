@@ -43,7 +43,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: tel
-        name: Mobile
+        name: mobile
         label: Mobile
         default_value: lorem-ipsum
         options: []
