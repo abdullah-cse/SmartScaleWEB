@@ -32,7 +32,6 @@ params:
   footer:
     sections:
       - type: footer_text
-        image: images/logo-alt.svg
         image_url: /
         image_alt: Footer logo
         content: >
