@@ -69,6 +69,20 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    - title: Easy to Use
+        image: images/feature2.png
+        image_alt: App users welcoming a new member
+        content: >
+          SmartScale basically developed targeting novice user, but it has lot
+          of Shortcut Key combination for Pro user. So far, a novice or Pro user
+          feel home at here. That’s why it’s SmartScale
+        actions:
+          - label: Learn More
+            url: /features
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
   - section_id: call-to-action
     type: section_cta
     title: Get Quote
