@@ -56,7 +56,9 @@ seo:
       value: Contact | SmartScale.com.bd
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Have some question about SmartScale.com.bd? Please fill out the Quick
+        Form and we will be in touch with lightening speed.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
