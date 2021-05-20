@@ -6,9 +6,7 @@ sections:
     background: gray
     title: Let's talk.
     content: |
-      # Ask me anything related.
-
-      Hate Form?
+      ### Hate Form?
 
       then mail me at abdullah@xyz.zyx
     form_id: contactForm
