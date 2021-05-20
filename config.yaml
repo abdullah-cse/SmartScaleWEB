@@ -17,9 +17,6 @@ params:
       - label: Pricing
         url: /pricing
         style: secondary
-      - label: Sign Up
-        url: /signup
-        style: primary
       - label: lorem-ipsum
         url: '#'
         style: link
@@ -29,6 +26,9 @@ params:
         new_window: false
         no_follow: false
         type: action
+      - label: Sign Up
+        url: /signup
+        style: primary
   footer:
     sections:
       - type: footer_text
