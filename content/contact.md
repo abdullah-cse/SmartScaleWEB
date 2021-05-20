@@ -45,7 +45,7 @@ sections:
     hide_labels: false
 seo:
   title: Contact | SmartScale
-  description: This is the contact page
+  description: 'Have some question about SmartScale.com.bd? Fill out the form '
   extra:
     - name: 'og:type'
       value: website
