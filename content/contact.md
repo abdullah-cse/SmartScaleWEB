@@ -44,7 +44,7 @@ sections:
     subtitle: Fill out the form below and we will get in touch within 1 business day.
     hide_labels: false
 seo:
-  title: Contact
+  title: Contact | SmartScale
   description: This is the contact page
   extra:
     - name: 'og:type'
