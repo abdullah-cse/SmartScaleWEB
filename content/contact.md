@@ -45,7 +45,9 @@ sections:
     hide_labels: false
 seo:
   title: Contact | SmartScale
-  description: 'Have some question about SmartScale.com.bd? Fill out the form '
+  description: >-
+    Have some question about SmartScale.com.bd? Please fill out the Quick Form
+    and we will be in touch with lightening speed.
   extra:
     - name: 'og:type'
       value: website
