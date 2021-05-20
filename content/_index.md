@@ -70,17 +70,14 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Feature you need
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+        content: >
+          ## Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
