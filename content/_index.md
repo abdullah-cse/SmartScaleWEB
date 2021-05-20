@@ -69,7 +69,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    - title: Easy to Use
+        - title: Easy to Use
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
