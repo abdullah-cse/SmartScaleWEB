@@ -76,7 +76,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Learn More
-            url: /fatures
+            url: /feature
             style: link
             has_icon: false
             icon: arrow-left
