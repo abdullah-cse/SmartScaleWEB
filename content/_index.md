@@ -14,7 +14,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Exclusive Features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
