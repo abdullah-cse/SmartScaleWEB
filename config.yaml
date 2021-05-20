@@ -18,7 +18,7 @@ params:
         url: /pricing
         style: secondary
       - url: /contact
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: left
