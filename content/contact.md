@@ -41,7 +41,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-    subtitle: We'd love to hear from you.
+    subtitle: Fill out the form below and I will get in touch within 1 business day.
     hide_labels: false
 seo:
   title: Contact
