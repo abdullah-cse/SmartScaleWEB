@@ -42,6 +42,13 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Send Message
     subtitle: Fill out the form below and I will get in touch within 1 business day.
     hide_labels: false
