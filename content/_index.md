@@ -41,7 +41,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Awesome Feature of Your Services
+      - title: Easy to Use
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
