@@ -4,7 +4,7 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: How can we
     content: |
       # Ask me anything related.
 
