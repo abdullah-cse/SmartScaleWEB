@@ -3,7 +3,7 @@ title: Contact
 sections:
   - section_id: contact
     type: section_contact
-    background: white
+    background: gray
     title: Let's talk.
     content: |
       # Ask me anything related.
