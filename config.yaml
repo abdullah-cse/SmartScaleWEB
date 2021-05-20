@@ -120,6 +120,7 @@ params:
     content: '&copy; SmartScale 2021. All rights reserved.'
     links: []
   domain: 'https://smartscale.com.bd'
+  favicon: images/favicon.ico
 taxonomies:
   stub: stub
 disableKinds:
