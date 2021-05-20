@@ -6,9 +6,9 @@ sections:
     background: gray
     title: Let's talk.
     content: |
-      ### Hate Form?
+      #### Hate Form?
 
-      then mail us at sales\[@]smartscale.com.bd
+      then mail us at sales@smartscale.com.bd
     form_id: contactForm
     form_fields:
       - input_type: text
