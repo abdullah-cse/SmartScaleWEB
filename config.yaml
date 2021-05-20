@@ -4,7 +4,7 @@ params:
   base_font: nunito-sans
   palette: blue
   header:
-    logo_img: images/SmartScaleHeaderLogoHalf.png
+    logo_img: images/SmartScaleHeaderLogo.png
     logo_img_alt: alt-SmartScale
     has_nav: true
     nav_links:
@@ -37,7 +37,7 @@ params:
         content: >
           SmartScale is a modern, easy to use industrial Weighing Scale Software
           for Weighing, Report Generation, Track Sales and more…
-        image: images/SmartScaleHalf.png
+        image: images/SmartScaleFull.png
       - type: footer_nav
         title: Quick Links
         nav_links:
