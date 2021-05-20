@@ -25,6 +25,7 @@ params:
         new_window: false
         no_follow: false
         type: action
+        label: Contact
       - label: Sign Up
         url: /signup
         style: primary
