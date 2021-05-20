@@ -27,7 +27,7 @@ sections:
       - input_type: select
         name: subject
         label: Subject
-        default_value: 'Please select your '
+        default_value: Please select your Issue
         options:
           - Error on the site
           - Sponsorship
