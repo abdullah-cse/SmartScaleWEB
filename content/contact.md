@@ -65,6 +65,8 @@ seo:
     - name: 'twitter:title'
       value: Contact | SmartScale.com.bd
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Have some question about SmartScale.com.bd? Please fill out the Quick
+        Form and we will be in touch with lightening speed.
 layout: landing
 ---
