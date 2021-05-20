@@ -53,7 +53,7 @@ sections:
             url: /features
             style: secondary
             has_icon: true
-            icon: arrow-right
+            icon: arrow-left
             icon_position: right
       - title: Smart Report
         image: images/feature3.png
