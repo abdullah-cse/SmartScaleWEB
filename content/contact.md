@@ -30,7 +30,7 @@ sections:
         default_value: Please select your Issue
         options:
           - Error on the site
-          - Agenc
+          - Agencies
           - Other
       - input_type: textarea
         name: message
