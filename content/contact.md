@@ -53,7 +53,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact | SmartScale.com.bd
       keyName: property
     - name: 'og:description'
       value: This is the contact page
