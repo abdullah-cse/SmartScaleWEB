@@ -8,7 +8,7 @@ sections:
     content: |
       ### Hate Form?
 
-      then mail me at abdullah@xyz.zyx
+      then mail us at sales\[@]smartscale.com.bd
     form_id: contactForm
     form_fields:
       - input_type: text
