@@ -19,7 +19,7 @@ params:
         style: secondary
       - url: /contact
         style: primary
-        has_icon: true
+        has_icon: false
         icon: envelope
         icon_position: right
         new_window: false
