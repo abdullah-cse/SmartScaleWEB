@@ -17,7 +17,7 @@ sections:
         name: name
         label: Name
         is_required: true
-        default_value: Your name here
+        default_value: Your name
         options: []
       - input_type: email
         name: email
