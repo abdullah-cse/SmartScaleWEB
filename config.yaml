@@ -17,9 +17,15 @@ params:
       - label: Pricing
         url: /pricing
         style: secondary
-      - label: Style Guide
-        url: /style-guide
-        style: secondary
+      - url: /contact
+        style: primary
+        has_icon: true
+        icon: envelope
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+        label: Contact
       - label: Sign Up
         url: /signup
         style: primary

@@ -4,34 +4,36 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Let's talk.
     content: |
-      # Ask me anything related.
+      #### Hate Form?
 
-      Hate Form?
-
-      then mail me at abdullah@xyz.zyx
+      then mail us at sales@smartscale.com.bd
     form_id: contactForm
     form_fields:
       - input_type: text
         name: name
         label: Name
         is_required: true
+        default_value: Your name
+        options: []
       - input_type: email
         name: email
         label: Email
         is_required: true
+        default_value: Your email address
       - input_type: select
         name: subject
         label: Subject
-        default_value: Please select
+        default_value: Please select your Issue
         options:
           - Error on the site
-          - Sponsorship
+          - Agencies
           - Other
       - input_type: textarea
         name: message
         label: Message
+        default_value: Your message
       - input_type: checkbox
         name: consent
         label: >-
@@ -39,6 +41,8 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
+    subtitle: Fill out the form below and we will get in touch within 1 business day.
+    hide_labels: false
 seo:
   title: Contact
   description: This is the contact page
