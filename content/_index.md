@@ -71,13 +71,8 @@ sections:
             icon_position: right
       - title: Feature you need
         content: >
-          ## Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
