@@ -19,13 +19,6 @@ sections:
         is_required: true
         default_value: Your name
         options: []
-      - input_type: tel
-        name: mobile
-        label: Mobile
-        default_value: Your mobile number
-        options: []
-        is_required: false
-        type: form_field
       - input_type: email
         name: email
         label: Email
