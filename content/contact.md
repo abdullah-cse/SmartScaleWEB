@@ -40,7 +40,7 @@ sections:
         is_required: true
     submit_label: Send Message
     subtitle: We'd love to hear from you.
-    hide_labels: true
+    hide_labels: false
 seo:
   title: Contact
   description: This is the contact page
