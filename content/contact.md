@@ -19,6 +19,13 @@ sections:
         is_required: true
         default_value: Your name
         options: []
+      - input_type: tel
+        name: mobile
+        label: Mobile
+        default_value: Your mobile number
+        options: []
+        is_required: false
+        type: form_field
       - input_type: email
         name: email
         label: Email
@@ -42,13 +49,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: tel
-        name: mobile
-        label: Mobile
-        default_value: Your mobile number
-        options: []
-        is_required: false
-        type: form_field
     submit_label: Send Message
     subtitle: Fill out the form below and I will get in touch within 1 business day.
     hide_labels: false
