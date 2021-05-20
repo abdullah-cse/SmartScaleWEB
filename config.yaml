@@ -4,7 +4,7 @@ params:
   base_font: nunito-sans
   palette: blue
   header:
-    logo_img: images/SmartScaleHeaderLogoHalf.png
+    logo_img: images/SmartScaleFull.png
     logo_img_alt: alt-SmartScale
     has_nav: true
     nav_links:
