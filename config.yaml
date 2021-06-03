@@ -77,7 +77,7 @@ params:
             has_icon: true
             icon: facebook
             icon_position: left
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
       - title: Contact Info
