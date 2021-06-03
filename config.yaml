@@ -63,7 +63,7 @@ params:
             type: action
             url: 'https://www.youtube.com'
           - label: Twitter
-            url: www.twitter.com
+            url: 'https://twitter.com/home'
             style: link
             has_icon: true
             icon: twitter
