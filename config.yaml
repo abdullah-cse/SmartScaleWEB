@@ -83,17 +83,12 @@ params:
       - image_alt: lorem-ipsum
         image_url: lorem-ipsum
         title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ## Contact Info
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Dhaka, Bangladesh
+          *   \+8801571386167
+          *   sales@smartscale.com.bd
         type: footer_text
     has_nav: true
     nav_links:
