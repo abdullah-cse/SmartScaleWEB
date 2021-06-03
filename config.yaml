@@ -85,6 +85,9 @@ params:
         title: Contact Info
         content: "\U0001F310 Dhaka, Bangladesh \n\n\U0001F4DE +8801571386167\n\n\U0001F4E7 sales@smartscale.com.bd\n"
         type: footer_text
+      - title: lorem-ipsum
+        nav_links: []
+        type: footer_nav
     has_nav: true
     nav_links:
       - label: Terms of Service
