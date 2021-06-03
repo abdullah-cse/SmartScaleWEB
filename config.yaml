@@ -1,7 +1,7 @@
 title: SmartScale | Smarter way to Scale
 baseURL: /
 params:
-  base_font: fira-sans
+  base_font: system-sans
   palette: blue
   header:
     logo_img: images/purple-lettuce.svg
