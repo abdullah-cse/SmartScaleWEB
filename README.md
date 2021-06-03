@@ -48,3 +48,8 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
         hugo server
 
 1. Open [http://localhost:1313/](http://localhost:1313/) in the browser
+
+
+## Site Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d06565b-6a25-45c8-8ddf-68217fdfcaaf/deploy-status)](https://app.netlify.com/sites/smartscale/deploys)

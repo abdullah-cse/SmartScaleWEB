@@ -1,5 +1,5 @@
 .site-header {
-  background: #2C2F3B;
+  background: #fff;
   color: $gray-700;
   padding-bottom: 1em;
   padding-top: 1em;
@@ -61,7 +61,7 @@
 
     a:not(.button) {
       color: inherit;
-  
+
       &:hover {
         color: $gray-500;
       }
