@@ -28,7 +28,7 @@ params:
       - label: Sign Up
         url: /signup
         style: primary
-    logo_img_alt: SmartScale
+    logo_img_alt: alt=""
   footer:
     sections:
       - type: footer_text
