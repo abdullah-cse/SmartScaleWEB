@@ -83,20 +83,12 @@ params:
       - image_alt: lorem-ipsum
         image_url: lorem-ipsum
         title: Contact Info
-        content: >+
+        content: |
           *   Dhaka, Bangladesh
-
 
           *   \+8801571386167
 
-
-          *   \[sales@SmartScale.com.bd]
-          (mailto:sales@smartscale.com.bd?subjet=\[SmartScale]%20We%20would%20Like%20to%20buy)
-
-
-          \[Dr. Ken
-          Lunde]\(mailto:lunde@adobe.com?subject=\[GitHub]%20Source%20Han%20Sans)
-
+          *   sales@smartscale.com.bd
         type: footer_text
     has_nav: true
     nav_links:
