@@ -80,35 +80,6 @@ params:
             new_window: true
             no_follow: false
             type: action
-      - title: Contact Info
-        nav_links:
-          - label: 'Dhaka, Bangladesh'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: +8801571-386-167
-            url: 'tel:+8801571386167'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: sales@SmartScale.com.bd
-            url: 'mailto:sales@smartscale.com.bd'
-            style: link
-            has_icon: false
-            icon: envelope
-            icon_position: left
-            new_window: false
-            no_follow: true
-            type: action
-        type: footer_nav
       - image_alt: lorem-ipsum
         image_url: lorem-ipsum
         title: lorem-ipsum
