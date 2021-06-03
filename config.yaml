@@ -100,7 +100,7 @@ params:
             no_follow: false
             type: action
           - label: sales@SmartScale.com.bd
-            url: 'https://mailto:smartscale.com.bd'
+            url: 'mailto:smartscale.com.bd'
             style: link
             has_icon: false
             icon: envelope
