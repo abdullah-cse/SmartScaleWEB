@@ -118,7 +118,16 @@ params:
         url: /privacy-policy
         style: link
     content: '&copy; SmartScale 2021. All rights reserved.'
-    links: []
+    links:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
   domain: 'https://smartscale.com.bd'
   favicon: images/favicon.ico
 taxonomies:
