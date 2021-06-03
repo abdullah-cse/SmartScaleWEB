@@ -5,7 +5,6 @@ params:
   palette: blue
   header:
     logo_img: images/purple-lettuce.svg
-    logo_img_alt: alt-
     has_nav: true
     nav_links:
       - label: Home
