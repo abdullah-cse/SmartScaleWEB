@@ -118,7 +118,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: SmartScale | Smarter way to scale
+      value: SmartScale | Digital Scale Software
     - name: 'twitter:description'
       value: >-
         SmartScale is a modern, easy to use industrial Weighing Scale Software
