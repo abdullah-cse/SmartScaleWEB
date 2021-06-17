@@ -1,5 +1,5 @@
 ---
-title: SmartScale
+title: 'SmartScale | Digital Scale '
 sections:
   - section_id: hero
     type: section_hero
