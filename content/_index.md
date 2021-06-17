@@ -95,7 +95,7 @@ sections:
         url: /signup
         style: primary
 seo:
-  title: SmartScale | Smarter way to Scale
+  title: SmartScale | Digital Scale Software
   description: >-
     SmartScale is a modern, easy to use industrial Weighing Scale Software for
     Weighing, Report Generation, Track Sales and more…
