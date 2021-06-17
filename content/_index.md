@@ -1,5 +1,5 @@
 ---
-title: 'SmartScale | Digital Scale '
+title: SmartScale | Digital Scale Software
 sections:
   - section_id: hero
     type: section_hero
