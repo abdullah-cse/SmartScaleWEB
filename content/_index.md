@@ -104,7 +104,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: SmartScale | Smarter way to scale
+      value: SmartScale | Digital Scale Software
       keyName: property
     - name: 'og:description'
       value: >-
